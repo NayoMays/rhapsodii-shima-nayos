@@ -8,9 +8,9 @@ Extract the 'wiiflow' folder to the root of the device where Wiiflow is installe
 
 ## To Do
 
-- Add Nintendo 64 source plugin: Wii64 Beta 1.1
-- Add Nintendo 64 source plugin: Wii64 Beta 1.2
-- Add Nintendo 64 source plugin: Wii64 Beta 1.2 (Rice)
+- Add Nintendo 64 source plugin: [Wii64 Beta 1.1](https://code.google.com/archive/p/mupen64gc/downloads)
+- Add Nintendo 64 source plugin: [Wii64 Beta 1.2](https://github.com/FIX94/Wii64/releases)
+- Add Nintendo 64 source plugin: [Wii64 Rice Beta 1.2](https://github.com/emukidid/Wii64/releases)
 
 ## Changelog
 
