@@ -1,6 +1,19 @@
 # Rhapsodii Shima Nayos
 
-Tweaks by NayoMays for the [Rhapsodii Shima theme by PRP "Tetsuo"](https://gbatemp.net/threads/rhapsodii-shima-5-4.555062/) for [Wiiflow 5.4.7](https://gbatemp.net/threads/wiiflow-lite.422685/)
+Tweaks by NayoMays for the Rhapsodii Shima theme by PRP "Tetsuo" for Wiiflow 5.4.7
+
+## Requirements
+
+- [WiiFlow Lite >= v5.4.7](https://gbatemp.net/threads/wiiflow-lite.422685/)
+- [Rhapsodii Shima 5.4.7 v1](https://gbatemp.net/threads/rhapsodii-shima-5-4.555062/)
+- [WiiFlow Plugins Pack Rev 5](https://gbatemp.net/threads/the-great-quest-for-wiiflow-plugins-a-call-for-adventurers.563575/)
+
+## Recommended
+
+- [Cover Collections](https://gbatemp.net/threads/cover-collections-for-emulators-with-cover-support.324714/)
+- [Cover Collections Part 2](https://gbatemp.net/threads/cover-collections-part-2.559649/)
+- [Emulators Database, Snapshots, and CartDisk](https://gbatemp.net/threads/wiiflow-lite-with-emulators-database.527613/)
+- [CreateCat](https://gbatemp.net/threads/createcat-pc-app-to-write-wiiflow-categories.554596/)
 
 ## Installation
 
